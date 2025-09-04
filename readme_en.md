@@ -1,9 +1,15 @@
 # Survey-v1-3B-Beta
 
 [中文](./readme.md) | **English**
+
 ## Introduction
 
 Survey-v1-3B-Beta is a large language model specialized for survey research scenarios (experimental in nature, not recommended for real production or research environments). **This model was developed during the research process of "Simulating Macroeconomic Expectations using LLM Agents" ([arXiv:2505.17648](https://arxiv.org/abs/2505.17648)), based on training from Qwen2.5-3B-Instruct**, aiming to solve efficiency and cost issues in traditional survey research. It focuses on exploring the potential and limitations of large language models in simulating human research behavior.
+
+## Model Repository
+
+- **Hugging Face**: https://huggingface.co/keta1933/Survey-v1-3B-Beta
+- **ModelScope**: https://www.modelscope.cn/models/keta1933/Survey-v1-3B-Beta/summary
 
 ### Development Background
 
