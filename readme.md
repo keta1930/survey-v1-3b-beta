@@ -77,7 +77,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
 
 # 加载模型和分词器
-model_name = "/mnt/f/model/survey-r1-3B"  # 替换为实际模型路径
+model_name = "keta1933/Survey-v1-3B-Beta"  # 替换为实际模型路径
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForCausalLM.from_pretrained(
     model_name,

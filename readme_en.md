@@ -77,7 +77,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
 
 # Load model and tokenizer
-model_name = "/mnt/f/model/survey-r1-3B"  # Replace with actual model path
+model_name = "keta1933/Survey-v1-3B-Beta"  # Replace with actual model path
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForCausalLM.from_pretrained(
     model_name,
