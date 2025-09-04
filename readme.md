@@ -314,7 +314,7 @@ the above responses (do not include any other fields):
 ```bibtex
 @misc{survey-v1-3b-beta,
     title = {Survey-v1-3B-Beta: A Specialized Language Model for Survey Research},
-    url = {https://huggingface.co/keta1930/survey-v1-3b-beta},
+    url = {https://github.com/keta1930/survey-v1-3b-beta},
     author = {keta1930},
     month = {September},
     year = {2025}
@@ -328,8 +328,10 @@ the above responses (do not include any other fields):
 ## 联系方式
 
 如有问题或建议，请通过以下方式联系：
-- GitHub Issues: [项目链接]
-- Email: [联系邮箱]
+- GitHub Issues: https://github.com/keta1930/survey-v1-3b-beta
+
+- Email: keta1930@163.com
+
 
 ---
 
