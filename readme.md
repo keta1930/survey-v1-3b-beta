@@ -1,5 +1,5 @@
 # Survey-v1-3B-Beta
-
+[English](./readme_en.md) | **中文**
 ## 简介
 
 Survey-v1-3B-Beta 是一个专门用于问卷调研场景的大语言模型（实验性质，不建议投入真实生产或科研环境），**本模型于《Simulating Macroeconomic Expectations using LLM Agents》([arXiv:2505.17648](https://arxiv.org/abs/2505.17648))研究过程中开发，基于Qwen2.5-3B-Instruct进行训练**，旨在解决传统问卷调研中的效率和成本问题。，专注于探索大语言模型在模拟人类调研行为方面的潜力和局限性。
