@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+title: "Survey-v1-3B-Beta: A Specialized Language Model for Survey Research"
+message: "If you use this model or code, please cite it using the metadata below."
+type: software
+
+authors:
+  - family-names: "Yan"
+    given-names: "Yixin"
+  - family-names: "Lin"
+    given-names: "Jianhao"
+  - family-names: "Sun"
+    given-names: "Lexuan"
+
+abstract: >
+  Survey-v1-3B-Beta is a specialized large language model developed for 
+  questionnaire and survey simulation scenarios. It was designed during the 
+  research project “Simulating Macroeconomic Expectations using LLM Agents” 
+  (arXiv:2505.17648) and fine-tuned based on Qwen2.5-3B-Instruct. 
+  The model explores the potential and limitations of large language models 
+  in mimicking human survey behavior, offering structured, multilingual, 
+  and standardized responses with minimal computational cost.
+
+repository-code: "https://github.com/keta1930/survey-v1-3b-beta"
+url: "https://huggingface.co/keta1933/Survey-v1-3B-Beta"
+license: "Apache-2.0"
+version: "1.0.0"
+date-released: "2025-09-01"
+
+keywords:
+  - large language model
+  - survey simulation
+  - behavioral modeling
+  - questionnaire research
+  - Qwen2.5-3B
+  - LLM agent
+
+preferred-citation:
+  type: article
+  title: "Simulating Macroeconomic Expectations using LLM Agents"
+  authors:
+    - family-names: "Lin"
+      given-names: "Jianhao"
+    - family-names: "Sun"
+      given-names: "Lexuan"
+    - family-names: "Yan"
+      given-names: "Yixin"
+  year: 2025
+  journal: "arXiv preprint"
+  notes: "arXiv:2505.17648"
+  url: "https://arxiv.org/abs/2505.17648"
