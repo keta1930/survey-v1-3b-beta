@@ -4,12 +4,12 @@ message: "If you use this model or code, please cite it using the metadata below
 type: software
 
 authors:
-  - family-names: "Yan"
-    given-names: "Yixin"
   - family-names: "Lin"
     given-names: "Jianhao"
   - family-names: "Sun"
     given-names: "Lexuan"
+  - family-names: "Yan"
+    given-names: "Yixin"
 
 abstract: >
   Survey-v1-3B-Beta is a specialized large language model developed for 
