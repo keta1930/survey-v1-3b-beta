@@ -320,13 +320,7 @@ the above responses (do not include any other fields):
 如果您在技术实现中使用了Survey-v1-3B-Beta模型，请引用：
 
 ```bibtex
-@misc{survey-v1-3b-beta,
-    title = {Survey-v1-3B-Beta: A Specialized Language Model for Survey Research},
-    url = {https://github.com/keta1930/survey-v1-3b-beta},
-    author = {keta1930},
-    month = {September},
-    year = {2025}
-}
+Lin, J., Sun, L., & Yan, Y. (2025). Survey-v1-3B-Beta: A Specialized Language Model for Survey Research (Version 1.0.0) [Computer software]. https://github.com/keta1930/survey-v1-3b-beta
 ```
 
 ## 许可证
